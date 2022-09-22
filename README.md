@@ -11,12 +11,12 @@
 
 <div align="center">
   <a href="https://github.com/wellcordeiro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wellcordeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellcordeiro&layout=compact&langs_count=7&theme=dark"/></a>
-</div>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wellcordeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellcordeiro&layout=compact&langs_count=7&theme=dark"/></a>
+</div><br><br><br><br>
 
  
-<div style="display: inline_block"><br>
+<div style="display: inline_block"><br><br><br><br>
    Estudando/Trabalhando:
   <img align="center" alt="Well-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Well-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
